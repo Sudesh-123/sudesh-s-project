@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ambulance Tracker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_direction">direction</string>
+    <string name="google_maps_api_key">AIzaSyBDqiEE_riYCZVkUokTwfC56a8TxfU3RaA</string>
+
+</resources>
